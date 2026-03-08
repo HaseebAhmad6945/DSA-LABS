@@ -1,0 +1,6 @@
+BANK_DATA_V1,1002
+# --- ACCOUNTS ---
+# RowType,AccountType,AccountNo,AccountName,Balance,Permissions,InterestRate_or_TxFee,OverdraftLimit
+ACCOUNT,Savings,1001,haseeb ahmad,50000.00,15,7.5000,1000.00
+# --- TRANSACTIONS ---
+# RowType,AccountNo,Amount
